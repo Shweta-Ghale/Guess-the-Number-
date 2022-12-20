@@ -1,0 +1,55 @@
+body {
+    background-color:black;
+   
+        background-image: url("https://media.istockphoto.com/id/1337837702/vector/realistic-isolated-neon-question-mark-on-the-wall-background-vector-illustration.jpg?s=612x612&w=0&k=20&c=9R7eL1_2MIluYnplgY9b0qH0rU92EqLNkiZuK5PQsqI=");
+     background-repeat: no-repeat;
+     background-size: cover;
+        width: fit-content;
+      height: fit-content;
+text-align:center;
+  }
+
+  h1{
+    color: rgb(189, 89, 18);
+    text-align: center;
+  }
+
+  h5{
+    color: indianred;
+  }
+
+  
+  form {
+   
+    width: 500px;
+    padding: 50px;
+    margin: 10px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+  }
+
+
+  button{
+    color: rgb(243, 123, 79);
+    border-radius: 25px;
+    background: #101110;
+    text-align:center;
+    width: 100px;
+    height: 50px;
+
+  }
+
+  img {
+    border-radius: 50%;
+   
+  }
+  img:hover {
+    transform: scaleX(-1);
+  }
+  
+  p{
+     color:orangered;  
+  }
